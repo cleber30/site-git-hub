@@ -63,9 +63,9 @@ body {
     padding: 16px 0;
 }
 
-@media (max-witdh: 720 px)
+@media (max-widtch:720px)
 {
-    *{
+    {
         margin: 0;
         padding: 0;
     }
